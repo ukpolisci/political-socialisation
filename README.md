@@ -5,9 +5,7 @@ The thesis examines the process of political socialisation of party identity wit
 
 ## Repository contents
 
-### Data folder
-The [Data](./Data/) folder contains the raw datasets used in the analysis:
-
 ### Code folder
 The [Code](./Code/) folder contains the R files to reproduce the analysis in the paper:
 
+The data cannot be uploaded due to the licensing agremeent wiht the UK Data Service. 
